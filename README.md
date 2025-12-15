@@ -140,7 +140,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Swapn-Kumar/Disha-Darshak-AI.git
+    git clone https://github.com/Swapn-Kumar/DishaDarshak-AI.git
     cd Disha-Darshak-AI
     ```
 
@@ -236,4 +236,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 3. Sourav - [GitHub](https://github.com/Souraveng)
 4. Swapn - - [GitHub](https://github.com/Swapn-Kumar)
 
-📃 Project Link: [https://github.com/Swapn-Kumar/Disha-Darshak-AI](https://github.com/Swapn-Kumar/Disha-Darshak-AI)
+📃 Project Link: [https://github.com/Swapn-Kumar/DishaDarshak-AI](https://github.com/Swapn-Kumar/DishaDarshak-AI)
